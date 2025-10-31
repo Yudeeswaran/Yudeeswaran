@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="AI Developer working animation" />
 </p>
 
-- 🌱 I’m currently learning **MCP Servers , Reinforcement Learning**
+- 🌱 I’m currently learning **Low Level Technicals of LLMs and also Reinforcement Learning in LLMs**
 
 - 💬 Ask me about **Machine Learning , Deep Learning , LLMs , Generative AI's**
 
