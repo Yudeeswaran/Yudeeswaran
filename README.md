@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yudeeswaran2805@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PIoLMI1oFGWaOTGhxY2Q3qBPX1iqxnc0/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uvr5o8sQgRo8yyBUK4Iw6x87NuF48zus/view?usp=sharing)
 
 - ⚡ Fun fact **If the code doesn't bother you, don't bother it.**
 
